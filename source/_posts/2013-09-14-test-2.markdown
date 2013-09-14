@@ -1,0 +1,13 @@
+---
+layout: post
+title: "test 2"
+date: 2013-09-14 22:55
+comments: true
+categories: difficult, not normal, strange
+---
+
+## Every So often, something bad happens!
+* Thing a
+* Also, thing b
+* I'm not sure about the rest, but I'm quite sure they occure too.  Just
+  not quite as much.  But it's still a prety big deal.
